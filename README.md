@@ -1,3 +1,14 @@
-# Miscellaneous Files
+# 业余研究项目集合
 
-This repository contains various miscellaneous files and documents.
+这个仓库用于存放我的各种业余时间的杂项研究和实验项目。每个文件夹代表一个独立的研究主题或项目。
+
+## 项目列表
+
+### Apple订阅记录分析
+位置：`Apple订阅记录分析/`
+
+这个项目专注于分析和整理Apple App Store的订阅记录数据，包括自动解析订阅记录、生成结构化表格等功能。主要用于个人财务管理和订阅服务分析。
+
+---
+
+*更多项目将陆续添加...*
